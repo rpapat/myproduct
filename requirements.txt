@@ -1,0 +1,10 @@
+-i https://pypi.theorchard.io/pypi/
+python-env==1.0.0
+blinker==1.4
+Flask==0.12.1
+newrelic==2.84.0.64
+oto==1.0.1
+owslogger==0.3.0
+owsrequest==0.10.2
+python-dotenv==0.8.2
+raven==6.0.0

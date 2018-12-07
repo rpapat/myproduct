@@ -1,0 +1,4 @@
+[flake8]
+application-import-names=myproduct, tests
+import-order-style=google
+ignore = D413
